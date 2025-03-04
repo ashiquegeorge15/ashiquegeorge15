@@ -1,4 +1,14 @@
 ## Hi there
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=ashiquegeorge15&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/ashiquegeorge15?pet-id=658355565526383039"
+    width="600"
+    height="120"
+  />
+</a>
+  
 **ashiquegeorge15/ashiquegeorge15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
